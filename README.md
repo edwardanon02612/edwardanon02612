@@ -1,10 +1,8 @@
 ### ¡Hola! Soy Edward  💻🌊
 
-https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif
+![1f4bb](https://user-images.githubusercontent.com/75863197/105567411-00ffaa00-5cc5-11eb-83fe-5c3ef3580f75.png)
 
-<! 
-**edwardanon02612/edwardanon02612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Datos sobre mi🖖:
+Datos sobre mi🖖 :
 - ✍ Estudiante de Informatica
 - 📌  I'm from Dominican Repu 
 - 🌵 Actualmente estoy aprendiendo sobre el funcionamiento de Git
